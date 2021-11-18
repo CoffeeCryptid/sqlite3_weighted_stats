@@ -1,7 +1,7 @@
 # sqlite3_weighted_stats
 SQLite3 Weighted Summary Statistics Extension
 
-Provides weighted mean, weighted variance and weighted standard deviation functions for sqlite3. The code was largely lifted from [Liam Healy's sqlite3 extension functions](https://www.sqlite.org/contrib) and adjusted. Calculations are based on [notes on incremental calculation of weighted mean and variance by Tony Finch](https://fanf2.user.srcf.net/hermes/doc/antiforgery/stats.pdf).
+Provides weighted mean, weighted variance and weighted standard deviation functions for sqlite3. The code was largely lifted from [Liam Healy's sqlite3 extension functions](https://gitlab.com/liamh/extension-functions) and adjusted. Calculations are based on [notes on incremental calculation of weighted mean and variance by Tony Finch](https://fanf2.user.srcf.net/hermes/doc/antiforgery/stats.pdf).
 
 ## FAQ
 
